@@ -1,5 +1,5 @@
-public clas MyFile {
+public class MyFile {
  public static void main(String args[]){
-   system.out.println("Hello Git");
+   System.out.println("Hello Git");
  }
 }
